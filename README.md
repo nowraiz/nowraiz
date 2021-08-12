@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there.</h1>
 
 <br>
-<a href="https://linkedin.com/in/nowraiz">
+<a href="https://www.linkedin.com/in/alinowraizkhan/">
   <img align="left" alt="Ali's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://facebook.com/nowraiz">
