@@ -8,7 +8,7 @@
   <img align="left" alt="Ali's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://open.spotify.com/user/31l2qdzujgpebzpal5z24uue7r2i">
-  <img alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
+  <img alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg">
 </a>
 <br><br>
 
