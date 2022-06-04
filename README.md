@@ -13,9 +13,9 @@
 <br><br>
 
 <h2>About me</h2>
-I am currently a PhD student at University of California, Riverside, My current work focuses on the domain of Program Analysis and Reinforcement Learning. 
-My general research interests include Deep Reinforcement Learning (RL), Deep Learning and Aritifical Intelligence.
-I’m looking to collaborate on any useful application of RL in any field imaginable. 
+I am currently a Graduate Student Researcher at University of California, Riverside, My current work focuses on the domain of Program Analysis and Machine Learning. 
+My general research interests include applications of Deep Reinforcement Learning (RL), Deep Learning and Aritifical Intelligence in different domains.
+I’m looking to collaborate on any useful application of ML in any field imaginable. 
 
 You can reach me at email here: akhan066@ucr.edu or anywhere on my social accounts. 
 
